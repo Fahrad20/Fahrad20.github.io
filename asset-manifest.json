@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6df28fd6.css",
+    "main.js": "/static/js/main.637bf631.js",
+    "static/media/erebuni.png": "/static/media/erebuni.2015a29c22a00aa9812f.png",
+    "static/media/easyShop.png": "/static/media/easyShop.e16f8c84024cd42e69ba.png",
+    "static/media/inoWays.png": "/static/media/inoWays.47cc9674c0f7b04f71bb.png",
+    "static/media/zambi.jpg": "/static/media/zambi.bd9c769de7f04c93365e.jpg",
+    "static/media/cyber.jpg": "/static/media/cyber.36917ce53f70be1a62a0.jpg",
+    "static/media/profile.jpg": "/static/media/profile.9736d03cea05905de10e.jpg",
+    "static/media/github.svg": "/static/media/github.b9319f359142dabf795d.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.386d46fc1dc9ea908ed8.svg",
+    "static/media/download.svg": "/static/media/download.76117dd43a793ab638dc.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.bb281c7fe5085e0a931d.svg",
+    "main.6df28fd6.css.map": "/static/css/main.6df28fd6.css.map",
+    "main.637bf631.js.map": "/static/js/main.637bf631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df28fd6.css",
+    "static/js/main.637bf631.js"
+  ]
+}
