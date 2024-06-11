@@ -1,1 +1,1 @@
-(./src/assets/present.ico)
+![My Image](./src/assets/present.ico)
