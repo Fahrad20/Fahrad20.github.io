@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.03dbff68.css",
-    "main.js": "/static/js/main.159b648b.js",
+    "main.css": "/static/css/main.9eef1465.css",
+    "main.js": "/static/js/main.19b0f45b.js",
+    "static/js/692.f95cb4a3.chunk.js": "/static/js/692.f95cb4a3.chunk.js",
+    "static/css/866.a90b8a04.chunk.css": "/static/css/866.a90b8a04.chunk.css",
+    "static/js/866.cb99c2b2.chunk.js": "/static/js/866.cb99c2b2.chunk.js",
+    "static/media/space.jpg": "/static/media/space.d7c61c0d9ddf19d4e7c2.jpg",
     "static/media/main_menu.svg": "/static/media/main_menu.738afecbb26c970c510d3fb51f6ce82c.svg",
-    "static/media/profile_menu.svg": "/static/media/profile_menu.5a999e04ef4f61990bf3024ab72ffefe.svg",
+    "static/media/mail_icon.svg": "/static/media/mail_icon.29ac350df92c649ab87525a839df486e.svg",
+    "static/media/telegram_icon.svg": "/static/media/telegram_icon.3295c7bd9bf1124c19a978b2c44e09c8.svg",
+    "static/media/phone_icon.svg": "/static/media/phone_icon.28f0bdbcc47a40feeabeeef465a1cfb3.svg",
+    "static/media/github_icon.svg": "/static/media/github_icon.404ff619057c051258a81f63d464629e.svg",
+    "static/media/linkedin_icon.svg": "/static/media/linkedin_icon.9f4bec9c68fab96b2dd265552e0b7970.svg",
+    "static/media/facebook_icon.svg": "/static/media/facebook_icon.0119c04912db915deedb1f6a94119fe4.svg",
     "static/media/portfolio_menu.svg": "/static/media/portfolio_menu.0d0ac2299762fb57a329657f6e4bae47.svg",
     "index.html": "/index.html",
-    "main.03dbff68.css.map": "/static/css/main.03dbff68.css.map",
-    "main.159b648b.js.map": "/static/js/main.159b648b.js.map"
+    "main.9eef1465.css.map": "/static/css/main.9eef1465.css.map",
+    "main.19b0f45b.js.map": "/static/js/main.19b0f45b.js.map",
+    "692.f95cb4a3.chunk.js.map": "/static/js/692.f95cb4a3.chunk.js.map",
+    "866.a90b8a04.chunk.css.map": "/static/css/866.a90b8a04.chunk.css.map",
+    "866.cb99c2b2.chunk.js.map": "/static/js/866.cb99c2b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03dbff68.css",
-    "static/js/main.159b648b.js"
+    "static/css/main.9eef1465.css",
+    "static/js/main.19b0f45b.js"
   ]
 }

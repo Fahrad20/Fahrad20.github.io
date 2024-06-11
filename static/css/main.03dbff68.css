@@ -1,2 +1,0 @@
-*{box-sizing:border-box;margin:0;padding:0}body[data-theme=dark]{--bg-color1:#fff}body[data-theme=light]{--bg-color1:#1b1b1b}body{background:var(--bg-color1);padding-left:70px}nav{background:#fff;border-right:1px solid #eee;box-shadow:0 0 5px #0000001a;height:100svh;justify-content:center;left:0;position:fixed;top:0;width:70px}nav,nav ul{align-items:center;display:flex;flex-direction:column}nav ul{gap:20px;list-style:none}
-/*# sourceMappingURL=main.03dbff68.css.map*/
