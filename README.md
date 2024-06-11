@@ -1,1 +1,0 @@
-![My Image](./src/assets/present.ico)
