@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.13393649.css",
-    "main.js": "/static/js/main.371593ba.js",
-    "static/css/800.c692eae4.chunk.css": "/static/css/800.c692eae4.chunk.css",
-    "static/js/800.1b5048f1.chunk.js": "/static/js/800.1b5048f1.chunk.js",
+    "main.js": "/static/js/main.1b0cbf02.js",
+    "static/css/570.7e906701.chunk.css": "/static/css/570.7e906701.chunk.css",
+    "static/js/570.30007345.chunk.js": "/static/js/570.30007345.chunk.js",
     "static/css/866.4f286a83.chunk.css": "/static/css/866.4f286a83.chunk.css",
     "static/js/866.1c3b6161.chunk.js": "/static/js/866.1c3b6161.chunk.js",
     "static/media/bc_demo.mp4": "/static/media/bc_demo.70627c006e44a3822b62.mp4",
     "static/media/pink_demo.mp4": "/static/media/pink_demo.55fb74a22be66ca7b66b.mp4",
+    "static/media/chat_demo.mp4": "/static/media/chat_demo.b4ebaf820ccc01e84692.mp4",
     "static/media/pinkBerry_logo.svg": "/static/media/pinkBerry_logo.27a8e5818da47960cc5358632b68f969.svg",
     "static/media/space.jpg": "/static/media/space.8acaf47be27fce69bcde.jpg",
     "static/media/busy_logo.svg": "/static/media/busy_logo.0f7c3862f4b20906e9fcfdbcedcff01d.svg",
     "static/media/tutorPlace_logo.svg": "/static/media/tutorPlace_logo.a94d92f9b7930d18701e2ac64a3a8503.svg",
     "static/media/ararat_logo.svg": "/static/media/ararat_logo.2a5b13ccf734d6c4ba784f12bf304e9c.svg",
     "static/media/meameal_logo.svg": "/static/media/meameal_logo.1da6058d974c7ceb28c3cd0d3129710e.svg",
+    "static/media/chat_logo.svg": "/static/media/chat_logo.e9077f1d3a52d9c1c4a03ed955e96c00.svg",
     "static/media/bc_logo.svg": "/static/media/bc_logo.0bb31a2e1a0ebe7616d707f47f684975.svg",
     "static/media/main_menu.svg": "/static/media/main_menu.738afecbb26c970c510d3fb51f6ce82c.svg",
     "static/media/willskill_logo.svg": "/static/media/willskill_logo.ab0af580faa9957660b195a03fc10a31.svg",
@@ -28,14 +30,14 @@
     "static/media/portfolio_menu.svg": "/static/media/portfolio_menu.0d0ac2299762fb57a329657f6e4bae47.svg",
     "static/media/info_icon.svg": "/static/media/info_icon.bcf69460df99d730e78996aed0db8fd6.svg",
     "main.13393649.css.map": "/static/css/main.13393649.css.map",
-    "main.371593ba.js.map": "/static/js/main.371593ba.js.map",
-    "800.c692eae4.chunk.css.map": "/static/css/800.c692eae4.chunk.css.map",
-    "800.1b5048f1.chunk.js.map": "/static/js/800.1b5048f1.chunk.js.map",
+    "main.1b0cbf02.js.map": "/static/js/main.1b0cbf02.js.map",
+    "570.7e906701.chunk.css.map": "/static/css/570.7e906701.chunk.css.map",
+    "570.30007345.chunk.js.map": "/static/js/570.30007345.chunk.js.map",
     "866.4f286a83.chunk.css.map": "/static/css/866.4f286a83.chunk.css.map",
     "866.1c3b6161.chunk.js.map": "/static/js/866.1c3b6161.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13393649.css",
-    "static/js/main.371593ba.js"
+    "static/js/main.1b0cbf02.js"
   ]
 }
