@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{At as t}from"./is-svg-component-C0YhsolF.js";var n=e(t());function r(e,t=`pointer`,r=`auto`,i=document.body){n.useEffect(()=>{if(e)return i.style.cursor=t,()=>void(i.style.cursor=r)},[e])}export{r as t};
